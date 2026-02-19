@@ -13,7 +13,9 @@
 
 
 - **[Hyperliquid_TUI](https://github.com/HaibaraYuki/hyperliquid_tui)** - Hyperliquid Signal Trading Terminal
-- ![Hyperliquid_Terminal](screenshot_02012026_042638.jpg)
+  <p align="left">
+    <img src="screenshot_02012026_042638.jpg" alt="Hyperliquid_Terminal" width="320">
+  </p>
 
 ## GitHub Activity
 

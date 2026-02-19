@@ -7,7 +7,7 @@
 ## Legacy Work
 
 - **[PolyBotv2](https://github.com/HaibaraYuki/PolyBotv2)** - Polymarket Trade TUI, Scalper and Copy Trader Integrated Application
-- <p align="left">
+  <p align="left">
     <img src="screenshot_20260216_083733.jpg" alt="PolyBotv2 Thumbnail" width="320">
   </p>
 

@@ -7,9 +7,9 @@
 ## Legacy Work
 
 - **[PolyBotv2](https://github.com/HaibaraYuki/PolyBotv2)** - Polymarket Trade TUI, Scalper and Copy Trader Integrated Application
-<p align="left">
-  <img src="screenshot_20260216_083733.jpg" alt="PolyBotv2 Thumbnail" width="320">
-</p>
+- <p align="left">
+    <img src="screenshot_20260216_083733.jpg" alt="PolyBotv2 Thumbnail" width="320">
+  </p>
 
 
 - **[Hyperliquid_TUI](https://github.com/HaibaraYuki/hyperliquid_tui)** - Hyperliquid Signal Trading Terminal

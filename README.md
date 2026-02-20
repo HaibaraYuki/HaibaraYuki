@@ -1,10 +1,12 @@
 # Hi, I'm BoHao Chen
 
+**[PolyBotv3](https://github.com/HaibaraYuki/PolyBotv3)**(closed source) - Trading Rust Bot in 15min BTC
+
 ## Current Projects
 
 - **[Aigco](https://github.com/HaibaraYuki/aigco)** - Agent, LLM and Inference Omni Core  Tools
 
-## Trade Bot
+## Legacy Work
 
 - **[PolyBotv2](https://github.com/HaibaraYuki/PolyBotv2)** - Polymarket Trade TUI, Scalper and Copy Trader Integrated Application
   <p align="left">

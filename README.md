@@ -4,7 +4,7 @@
 
 - **[Aigco](https://github.com/HaibaraYuki/aigco)** - Agent, LLM and Inference Omni Core  Tools
 
-## Legacy Work
+## Trade Bot
 
 - **[PolyBotv2](https://github.com/HaibaraYuki/PolyBotv2)** - Polymarket Trade TUI, Scalper and Copy Trader Integrated Application
   <p align="left">
